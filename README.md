@@ -4,7 +4,7 @@
 * [CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Depl...](https://youtu.be/YLtlz88zrLg?is=n3p8FatTyaN_2SJG)
 
 -------------
-
+* https://ftk1000.github.io/ci-cd-demo
 * [CI/CD demo project on COWORKER		https://claude.ai/chat/a33d9147-aa6d-4365-87c4-dd233d8b3205](https://claude.ai/chat/a33d9147-aa6d-4365-87c4-dd233d8b3205)
 * [CI/CD demo slides		https://claude.ai/chat/bd4547ad-ba4d-4b98-9435-5098e216e3a2](https://claude.ai/chat/bd4547ad-ba4d-4b98-9435-5098e216e3a2)
 * CI/CD dir:		/Users/paulpaul/CODING/ci-cd-demo
