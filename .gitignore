@@ -22,3 +22,6 @@ dist/
 *.pptx
 *.pdf
 .~lock.*#
+
+# Generated site bundle
+site/
